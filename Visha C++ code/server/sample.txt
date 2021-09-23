@@ -1,0 +1,7 @@
+This is an apple.
+banana
+orange
+strawberry
+kiwi
+plum
+pear
